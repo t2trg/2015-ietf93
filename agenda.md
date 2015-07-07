@@ -44,6 +44,7 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 (The room for the smaller breakout is still being assigned.)
 
 * 30 WiFi Alliance Device Provisioning (TBD)
+* 31 Access Control on Multiprotocol Networks (Pablo Puñal Pereira, LTU)
 
 ## 18:00 EOB
 
@@ -59,6 +60,7 @@ around 19:15 in the Hilton lobby.
 
 * 40 Mechanisms and APIs for Mobile Things to Relate with Location
   Specific Data (Fabio Chiussi, Cisco)
+* 41 Programming the IoT with C++ Actors (Raphael Hiesgen, HAW)
 
 ## 11:00–13:00 Breakouts
 ## 13:00–14:00 Lunch
