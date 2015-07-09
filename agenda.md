@@ -1,5 +1,10 @@
 # Thing-to-Thing Proposed Research Group
 
+If you read this on the meeting materials manager:
+There is a slightly more [live agenda][agenda] at github.
+
+[agenda]: https://github.com/t2trg/2015-ietf93/blob/master/agenda.md
+
 Joint IRTF T2TRG/W3C IG WoT meeting at IETF93 in Prague
 
 2015-07-18..-19
@@ -26,6 +31,7 @@ Room: **Karlin III**
   (Alexander Pelov, Acklio)
 * 14 YANG meets Web -- various proposals around COMI, COOL, etc. (TBD,
   Michel Veillette, Trilliant)
+* 15 (Giacomo Tanganelli)
 
 At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.org/WoT/IG/wiki/Joint_IRTF_T2T_RG_/_W3C_WoT_IG_meeting_18-19_July_2015_in_Prague,_Czech_Republic)).
 
