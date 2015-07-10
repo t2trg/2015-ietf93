@@ -31,7 +31,7 @@ Room: **Karlin III**
   (Alexander Pelov, Acklio)
 * 14 YANG meets Web -- various proposals around COMI, COOL, etc. (TBD,
   Michel Veillette, Trilliant)
-* 15 (Giacomo Tanganelli)
+* 15 QoS for Things: State of the Art and Challenges (Giacomo Tanganelli, University of Pisa)
 
 At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.org/WoT/IG/wiki/Joint_IRTF_T2T_RG_/_W3C_WoT_IG_meeting_18-19_July_2015_in_Prague,_Czech_Republic)).
 
