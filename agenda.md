@@ -12,7 +12,7 @@ Joint IRTF T2TRG/W3C IG WoT meeting at IETF93 in Prague
 Hilton Prague, Pobrezni 1, Prague, Czech Republic 186 00,
 [map](https://www.google.de/maps/place/Hilton+Prague+Hotel/@50.093322,14.439794,17z)
 
-Room: **Karlin III**
+Room: **Karlin III**, (Breakout A: **London**)
 
 <!-- (two-digit numbers are slide deck numbers) -->
 
@@ -56,7 +56,9 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 * B1 [32 Security & Privacy Features in Current IoT Projects](https://github.com/t2trg/2015-ietf93/raw/master/slides/32-Security-and-Privacy-Features-in-Current-IoT-Projects-.pdf)
 * B2 [33 Existing Infrastructure vs. New Challenges](https://github.com/t2trg/2015-ietf93/raw/master/slides/33-Existing-Infrastructure-vs.-New-Challenges-.pdf)
 * B3 31 Access Control on Multiprotocol Networks (Pablo Puñal Pereira, LTU)
+* B3 35 WiFi Alliance Device Provisioning (Imprompty talk by Mohit)
 * B4 [34 Highlights from the ACE WG](https://github.com/t2trg/2015-ietf93/raw/master/slides/34-ace.pdf)
+* B4 [36 Interaction of ”Things” with the ”big” Internet: Authentication and Authorization](https://github.com/t2trg/2015-ietf93/raw/master/slides/36-openidcaf_irtf_ietf93.pdf)
 
 ## 18:00 EOB
 
@@ -71,7 +73,7 @@ around 19:15 in the Hilton lobby.
 ## 10:00–11:00 Short presentation of contributions
 
 * 40 Mechanisms and APIs for Mobile Things to Relate with Location
-  Specific Data (Fabio Chiussi, Cisco)
+  Specific Data (Not a presentation, Fabio Chiussi, Cisco)
 * 41 Programming the IoT with C++ Actors (Raphael Hiesgen, HAW)
 
 ## 11:00–13:00 Breakouts
