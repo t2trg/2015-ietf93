@@ -64,7 +64,7 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 
 ## Dinner
 
-We will leave the Hiltong lobby to walk to dinner at 19:30.
+We will leave the Hilton lobby (*not* the lower lobby) to walk to dinner at 19:30.
 
 If you walk independently:
 The dinner is at
