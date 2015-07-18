@@ -70,7 +70,7 @@ If you walk independently:
 The dinner is at
 [KOLKOVNA SAVARIN](http://www.kolkovna.cz/en/kolkovna-savarin-20) at
 Na Příkopě 10, near the Museum of Communism.
-The reservation is on the name of Bormann.  
+The reservation is for 20:00 in the name of Bormann.  
 (If you are there first, please check that the
 table is actually accessible.)
 
