@@ -31,8 +31,8 @@ Room: **Karlin III**
 * [10 From "REST-as-we-use-it" to Design Patterns (Matthias Kovatsch, ETH Zurich)](https://github.com/t2trg/2015-ietf93/raw/master/slides/10-2015_T2T_IRTF_REST-as-we-use-it.pdf)
 * 11 Self-describing, interoperable and configurable Things (Daniel Lux, Seluxit)
 * [13 Constrained Signaling Over LR-WAN, draft-pelov-core-cosol-00](https://github.com/t2trg/2015-ietf93/raw/master/slides/13-CoSOL.pdf) (Alexander Pelov, Acklio)
-* 14 [YANG meets Web -- various proposals around COMI, COOL, etc.](https://github.com/t2trg/2015-ietf93/raw/master/slides/14-ietf93-COnstrained-Objects-Language-overview.pdf) (Michel Veillette, Trilliant)
-* 15 QoS for Things: State of the Art and Challenges (Giacomo Tanganelli, University of Pisa)
+* [14 YANG meets Web -- various proposals around COMI, COOL, etc.](https://github.com/t2trg/2015-ietf93/raw/master/slides/14-ietf93-COnstrained-Objects-Language-overview.pdf) (Michel Veillette, Trilliant)
+* [15 QoS for Things: State of the Art and Challenges](https://github.com/t2trg/2015-ietf93/raw/master/slides/15-QoS_for_Things.pdf) (Giacomo Tanganelli, University of Pisa)
 
 At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.org/WoT/IG/wiki/Joint_IRTF_T2T_RG_/_W3C_WoT_IG_meeting_18-19_July_2015_in_Prague,_Czech_Republic)).
 
