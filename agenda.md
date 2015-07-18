@@ -54,6 +54,8 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 
 * 30 WiFi Alliance Device Provisioning (TBD)
 * 31 Access Control on Multiprotocol Networks (Pablo Puñal Pereira, LTU)
+* [32 Security & Privacy Features in Current IoT Projects](https://github.com/t2trg/2015-ietf93/raw/master/slides/32-Security-and-Privacy-Features-in-Current-IoT-Projects-.pdf)
+* [33 Existing Infrastructure vs. New Challenges](https://github.com/t2trg/2015-ietf93/raw/master/slides/33-Existing-Infrastructure-vs.-New-Challenges-.pdf)
 
 ## 18:00 EOB
 
