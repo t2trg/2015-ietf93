@@ -74,8 +74,6 @@ The reservation is for 20:00 in the name of Bormann.
 (If you are there first, please check that the
 table is actually accessible.)
 
-[http://www.kolkovna.cz/en](http://www.kolkovna.cz/en)
-
 # Sunday, Jul 19
 
 ## 09:00–10:00 Wrap Up of Break Outs
