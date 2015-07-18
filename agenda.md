@@ -1,6 +1,6 @@
 # Thing-to-Thing Proposed Research Group
 
-If you read this on the meeting materials manager:
+If you read this on the meeting materials manager:  
 There is a slightly more [live agenda][agenda] at github.
 
 [agenda]: https://github.com/t2trg/2015-ietf93/blob/master/agenda.md
@@ -21,6 +21,10 @@ Room: **Karlin III**
 ## 10:00—10:30 Welcome, Introduction, Logistics
 
 * 00 IG/RG Chairs: Welcome to the T2TRG/IG WoT joint meeting
+    * [http://www.w3.org/WoT/IG/wiki/Main_Page](http://www.w3.org/WoT/IG/wiki/Main_Page)
+    * [http://www.w3.org/WoT/IG/wiki/APIs_and_Protocols_TF](http://www.w3.org/WoT/IG/wiki/APIs_and_Protocols_TF)
+    * [http://www.w3.org/WoT/IG/wiki/Thing_Description](http://www.w3.org/WoT/IG/wiki/Thing_Description)
+    * [http://w3c.github.io/wot/wot-ucr.html](http://w3c.github.io/wot/wot-ucr.html)
 
 ## 10:30–13:00 Short presentations of contributions
 
