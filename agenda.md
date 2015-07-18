@@ -24,7 +24,7 @@ Room: **Karlin III**
 
 ## 10:30–13:00 Short presentations of contributions
 
-* 10 (Matthias Kovatsch, ETHZ)
+* 10 From "REST-as-we-use-it" to Design Patterns (Matthias Kovatsch, ETH Zurich)
 * 11 Self-describing, interoperable and configurable Things (Daniel Lux, Seluxit)
 * 12 (Klaus Hartke, Uni Bremen TZI)
 * 13 Constrained Signaling Over LR-WAN, draft-pelov-core-cosol-00
