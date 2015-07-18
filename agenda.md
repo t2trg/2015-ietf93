@@ -48,7 +48,7 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 ### A) WoT TF AP / T2T Beyond REST
 
 * 20 Resource Model Indication (TBD, Gabor Bajko)
-* 21 Wrap-up of discussions in the APIs & protocols task force of W3C WoT IG (Johasnnes Hund)
+* 21 Wrap-up of discussions in the APIs & protocols task force of W3C WoT IG (Johannes Hund)
 
 ### B) Privacy / Security
 
