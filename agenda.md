@@ -64,16 +64,23 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 
 ## Dinner
 
-There will be some form of dinner arrangement; we'll probably meet
-around 19:15 in the Hilton lobby.
+We will leave the Hiltong lobby to walk to dinner at 19:30.
+
+If you walk independently:
+The dinner is at
+[KOLKOVNA SAVARIN](http://www.kolkovna.cz/en/kolkovna-savarin-20) at
+Na Příkopě 10, near the Museum of Communism.
+The reservation is on the name of Bormann.  
+(If you are there first, please check that the
+table is actually accessible.)
+
+[http://www.kolkovna.cz/en](http://www.kolkovna.cz/en)
 
 # Sunday, Jul 19
 
 ## 09:00–10:00 Wrap Up of Break Outs
 ## 10:00–11:00 Short presentation of contributions
 
-* 40 Mechanisms and APIs for Mobile Things to Relate with Location
-  Specific Data (Not a presentation, Fabio Chiussi, Cisco)
 * 41 Programming the IoT with C++ Actors (Raphael Hiesgen, HAW)
 
 ## 11:00–13:00 Breakouts
