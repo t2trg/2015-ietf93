@@ -29,7 +29,7 @@ Room: **Karlin III**, (Breakout A: **London**)
 ## 10:30–13:00 Short presentations of contributions
 
 * [10 From "REST-as-we-use-it" to Design Patterns (Matthias Kovatsch, ETH Zurich)](https://github.com/t2trg/2015-ietf93/raw/master/slides/10-2015_T2T_IRTF_REST-as-we-use-it.pdf)
-* 11 Self-describing, interoperable and configurable Things (Daniel Lux, Seluxit)
+* [11 Self-describing, interoperable and configurable Things](https://github.com/t2trg/2015-ietf93/raw/master/slides/11-SeluxitCore_W3C_16_07_2015.pdf) (Daniel Lux, Seluxit)
 * [13 Constrained Signaling Over LR-WAN, draft-pelov-core-cosol-00](https://github.com/t2trg/2015-ietf93/raw/master/slides/13-CoSOL.pdf) (Alexander Pelov, Acklio)
 * [14 YANG meets Web -- various proposals around COMI, COOL, etc.](https://github.com/t2trg/2015-ietf93/raw/master/slides/14-ietf93-COnstrained-Objects-Language-overview.pdf) (Michel Veillette, Trilliant)
 * [15 QoS for Things: State of the Art and Challenges](https://github.com/t2trg/2015-ietf93/raw/master/slides/15-QoS_for_Things.pdf) (Giacomo Tanganelli, University of Pisa)
@@ -52,7 +52,6 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 
 (The room for the smaller breakout is still being assigned.)
 
-* 30 WiFi Alliance Device Provisioning (TBD)
 * B1 [32 Security & Privacy Features in Current IoT Projects](https://github.com/t2trg/2015-ietf93/raw/master/slides/32-Security-and-Privacy-Features-in-Current-IoT-Projects-.pdf)
 * B2 [33 Existing Infrastructure vs. New Challenges](https://github.com/t2trg/2015-ietf93/raw/master/slides/33-Existing-Infrastructure-vs.-New-Challenges-.pdf)
 * B3 [31 Access Control on Multiprotocol Networks](https://github.com/t2trg/2015-ietf93/raw/master/slides/31-IETF-93-T2TRG-Pablo.pdf) (Pablo Puñal Pereira, LTU)
