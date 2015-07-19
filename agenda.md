@@ -12,7 +12,7 @@ Joint IRTF T2TRG/W3C IG WoT meeting at IETF93 in Prague
 Hilton Prague, Pobrezni 1, Prague, Czech Republic 186 00,
 [map](https://www.google.de/maps/place/Hilton+Prague+Hotel/@50.093322,14.439794,17z)
 
-Room: **Karlin III**
+Room: **Karlin III**, (Breakout A: **London**)
 
 <!-- (two-digit numbers are slide deck numbers) -->
 
@@ -29,7 +29,7 @@ Room: **Karlin III**
 ## 10:30–13:00 Short presentations of contributions
 
 * [10 From "REST-as-we-use-it" to Design Patterns (Matthias Kovatsch, ETH Zurich)](https://github.com/t2trg/2015-ietf93/raw/master/slides/10-2015_T2T_IRTF_REST-as-we-use-it.pdf)
-* 11 Self-describing, interoperable and configurable Things (Daniel Lux, Seluxit)
+* [11 Self-describing, interoperable and configurable Things](https://github.com/t2trg/2015-ietf93/raw/master/slides/11-SeluxitCore_W3C_16_07_2015.pdf) (Daniel Lux, Seluxit)
 * [13 Constrained Signaling Over LR-WAN, draft-pelov-core-cosol-00](https://github.com/t2trg/2015-ietf93/raw/master/slides/13-CoSOL.pdf) (Alexander Pelov, Acklio)
 * [14 YANG meets Web -- various proposals around COMI, COOL, etc.](https://github.com/t2trg/2015-ietf93/raw/master/slides/14-ietf93-COnstrained-Objects-Language-overview.pdf) (Michel Veillette, Trilliant)
 * [15 QoS for Things: State of the Art and Challenges](https://github.com/t2trg/2015-ietf93/raw/master/slides/15-QoS_for_Things.pdf) (Giacomo Tanganelli, University of Pisa)
@@ -52,23 +52,32 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 
 (The room for the smaller breakout is still being assigned.)
 
-* 30 WiFi Alliance Device Provisioning (TBD)
-* 31 Access Control on Multiprotocol Networks (Pablo Puñal Pereira, LTU)
+* B1 [32 Security & Privacy Features in Current IoT Projects](https://github.com/t2trg/2015-ietf93/raw/master/slides/32-Security-and-Privacy-Features-in-Current-IoT-Projects-.pdf)
+* B2 [33 Existing Infrastructure vs. New Challenges](https://github.com/t2trg/2015-ietf93/raw/master/slides/33-Existing-Infrastructure-vs.-New-Challenges-.pdf)
+* B3 [31 Access Control on Multiprotocol Networks](https://github.com/t2trg/2015-ietf93/raw/master/slides/31-IETF-93-T2TRG-Pablo.pdf) (Pablo Puñal Pereira, LTU)
+* B3 35 WiFi Alliance Device Provisioning (Impromptu talk by Mohit)
+* B4 [34 Highlights from the ACE WG](https://github.com/t2trg/2015-ietf93/raw/master/slides/34-ace.pdf)
+* B4 [36 Interaction of ”Things” with the ”big” Internet: Authentication and Authorization](https://github.com/t2trg/2015-ietf93/raw/master/slides/36-openidcaf_irtf_ietf93.pdf)
 
 ## 18:00 EOB
 
 ## Dinner
 
-There will be some form of dinner arrangement; we'll probably meet
-around 19:15 in the Hilton lobby.
+We will leave the Hilton lobby (*not* the lower lobby) to walk to dinner at 19:30.
+
+If you walk independently:
+The dinner is at
+[KOLKOVNA SAVARIN](http://www.kolkovna.cz/en/kolkovna-savarin-20) at
+Na Příkopě 10, near the Museum of Communism.
+The reservation is for 20:00 in the name of Bormann.  
+(If you are there first, please check that the
+table is actually accessible.)
 
 # Sunday, Jul 19
 
 ## 09:00–10:00 Wrap Up of Break Outs
 ## 10:00–11:00 Short presentation of contributions
 
-* 40 Mechanisms and APIs for Mobile Things to Relate with Location
-  Specific Data (Fabio Chiussi, Cisco)
 * 41 Programming the IoT with C++ Actors (Raphael Hiesgen, HAW)
 
 ## 11:00–13:00 Breakouts
