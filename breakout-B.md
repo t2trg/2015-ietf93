@@ -153,13 +153,13 @@ Policies for authentication, negotiation...
 
 Logistics for collecting information:
 
--- collect in the T2TRG repo
-   -- relevant input documents
-   -- snippets that will become the RG drafts at some point
+* collect in the T2TRG repo
+    * relevant input documents
+    * snippets that will become the RG drafts at some point
 
 What are the outputs:
 
--- Research Group drafts -> RFCs (after suitable time as a living document)
-   (need editors per draft!)
+* Research Group drafts -> RFCs (after suitable time as a living
+   document) (need editors per draft!)
 
 (W3C: Landscape, Requirements)

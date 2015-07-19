@@ -77,7 +77,7 @@ table is actually accessible.)
 
 ## 09:00–10:00 Wrapup of Breakouts
 
-* Breakout B (TBD)
+* 40 [Breakout B](https://github.com/t2trg/2015-ietf93/raw/master/slides/40-T2TRG-93-B.pdf) (Carsten Bormann, with text from Oliver Pfaff)
 * [Breakout A](https://github.com/t2trg/2015-ietf93/blob/master/breakout-A-Saturday.md) (Matthias Kovatsch)
 
 ## 10:00–10:20 Short presentation of contributions
