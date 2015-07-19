@@ -1,6 +1,6 @@
 # Thing-to-Thing Breakout A
 
-- Talk: 12 CoRE Applications (Klaus Hartke, Uni Bremen TZI)
+- Talk: 12 [CoRE Applications](http://tools.ietf.org/html/draft-hartke-core-apps) (Klaus Hartke, Uni Bremen TZI)
 
 ## REST
 - Collect accessable "authoritative" material on RESTful design
@@ -15,7 +15,6 @@
   - Initial items
     - Execute X (how to convert RPC style to REST)
     - Multi-user interaction with resources
-    - 
 - Define compliance levels? (see Richardson's Maturity Model)
   - Help with development contracts
 
