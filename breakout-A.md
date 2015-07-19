@@ -43,6 +43,7 @@
 - Look into Internet Media Types / representation formats
   - Trade-off between being specific and reusable
   - For forward/backward compatibility look at physics behind things
+  - ongoing discussions about needed resource types
 - Look into link relations / form classes
 - Start with reference framework
   - Agree on experimental use case (e.g., look at ZigBee Cluster Library)
@@ -74,6 +75,7 @@
 ## Outlook
 - Start definitions bottom-up from REST elements and constraints (client-server etc.)
 - Add next step, small abstraction on top
+- Thing descriptions as "beyond REST" approach
 
 ## AI
 - Draft for subscriptions
