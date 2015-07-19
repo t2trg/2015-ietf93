@@ -11,18 +11,18 @@
     - Presence Detection
     - Controller
     - Brightness sensor
-    - end
+    - energy measurement
 - user stories
   - someone enters the room the light is to dim up to the last level
   - the user wants to control he light through a user interface
   - adding a device with more features
   - leavin the room triggers a timer to turn off the light
   - measure energy on a central point
-- Smaller group to work out implementation details
+- Smaller group to work out implementation details (bootstrapped by Klaus and Matthias)
   - requirement: single entry point - catalog
   - management of bindings
   - multiple rooms
-  - Evolution proofing through
+  - Evolution proofing through actual evolution
 
 ## Cookbook / Pattern collection
 
@@ -46,3 +46,5 @@ to keep in mind/avoid:
 - modelling of collections
 - group communication ([RFC7390](http://tools.ietf.org/html/rfc7390) overlap?)
 - Resource structure (URIs may change, no implicit relation between parent and child resources, made explicit with link relations)
+
+Template will be provided on T2T github
