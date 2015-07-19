@@ -30,7 +30,7 @@
 
 ### A2) Use cases, requirements and modeling of subscriptions
 - Look at Observe attributes in [core-interfaces](http://tools.ietf.org/html/draft-ietf-core-interfaces) and [OMA LWM2M](http://member.openmobilealliance.org/ftp/public_documents/dm/LightweightM2M/Permanent_documents/OMA-TS-LightweightM2M-V1_0-20150707-D.zip)
-- Have explicit handles
+- Have explicit handles (see [TF-AP-report](https://github.com/t2trg/2015-ietf93/blob/master/slides/21-joint-meeting-TF-AP-report.pdf))
   - Resource to manage subscriptions in "/.well-known/subscriptions"
   - Rough consensus on such subscription handles
   - Handles could be managed with [CoMI](http://tools.ietf.org/html/draft-vanderstok-core-comi) to benefit from tooling
