@@ -16,7 +16,7 @@
   - Initial items
     - Execute X (how to convert RPC style to REST)
     - Multi-user interaction with resources
-- Define compliance levels? (see Richardson's Maturity Model)
+- Define compliance levels? (see [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html))
   - Help with development contracts
 
 ## Agenda Items
@@ -29,15 +29,15 @@
 - Terming "choreography" might be more fitting?
 
 ### A2) Use cases, requirements and modeling of subscriptions
-- Look at Observe attributes in core-interfaces and OMA LWM2M
+- Look at Observe attributes in [core-interfaces](http://tools.ietf.org/html/draft-ietf-core-interfaces) and [OMA LWM2M](http://member.openmobilealliance.org/ftp/public_documents/dm/LightweightM2M/Permanent_documents/OMA-TS-LightweightM2M-V1_0-20150707-D.zip)
 - Have explicit handles
   - Resource to manage subscriptions in "/.well-known/subscriptions"
-  - Rough consensus on resource handles
-  - Handles could be managed with CoMI to benefit from tooling
+  - Rough consensus on such subscription handles
+  - Handles could be managed with [CoMI](http://tools.ietf.org/html/draft-vanderstok-core-comi) to benefit from tooling
   - Possibility to batch multiple observe relations
 - Also think about including other mechanisms (e.g., for HTTP) in the handles
 
-### A3) Modeling of Web Thing as typed resources
+### A3) Modeling of Web Thing as Typed Resources vs HATEOAS
 - CoRE Apps provides some guidance for HATEOAS approach
 - HATEOAS provides resilience for change
 - Look into Internet Media Types / representation formats
@@ -46,7 +46,7 @@
   - ongoing discussions about needed resource types
 - Look into link relations / form classes
 - Start with reference framework
-  - Agree on experimental use case (e.g., look at ZigBee Cluster Library)
+  - Agree on experimental use case (e.g., look at Lighting in ZigBee Cluster Library / IPSO; get an access token from an ACE-like service to access a pay-to-use resource)
   - Ensure "touching" properties of REST in use cases (not too trivial)
   - Implement experimental prototypes
   - Hold a plugtest to see different approaches and identify problems
@@ -77,10 +77,7 @@
 - Add next step, small abstraction on top
 - Thing descriptions as "beyond REST" approach
 
-## AI
+## Action Items
 - Draft for subscriptions
 - implementations for HATEOAS
 - draft REST cookbook
-
-
- 
