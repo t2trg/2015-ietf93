@@ -46,7 +46,7 @@ At this point, we split into two breakouts (see also [W3C Wiki](http://www.w3.or
 
 * [12 CoRE Applications (Klaus Hartke, Uni Bremen TZI)](https://github.com/t2trg/2015-ietf93/raw/master/slides/12-core-apps.pdf)
 * 20 Resource Model Indication (TBD, Gabor Bajko)
-* 21 Wrap-up of discussions in the APIs & protocols task force of W3C WoT IG (Johannes Hund)
+* 21 [Report of W3C WoT IG Task force on API and protocol mapping](21-joint_meeting_TF-AP_report.pdf) (Johannes Hund)
 
 ### B) Privacy / Security
 
@@ -75,18 +75,20 @@ table is actually accessible.)
 
 # Sunday, Jul 19
 
-## 09:00–10:00 Wrap Up of Break Outs
-## 10:00–11:00 Short presentation of contributions
+## 09:00–10:00 Wrapup of Breakouts
 
-* 41 Programming the IoT with C++ Actors (Raphael Hiesgen, HAW)
+* Breakout B (TBD)
+* Breakout A (Matthias Kovatsch)
 
-## 11:00–13:00 Breakouts
+## 10:00–10:20 Short presentation of contributions
+
+* [41 Programming the IoT with C++ Actors (Raphael Hiesgen, HAW)](https://github.com/t2trg/2015-ietf93/raw/master/slides/41-T2TRG_-_Programming_the_IoT.pdf)
+
+## 10:40–11:00 Discussion of next set of breakouts
+## 11:00–12:30 Breakouts
+## 12:30–13:00 Wrapup of Breakouts
 ## 13:00–14:00 Lunch
-## 14:00–14:30 Updates / Contributions of IOT Consortia
-
-* 50 TBD
-
-## 14:30–16:00 Wrap Up and Outlook
+## 14:00–16:00 Wrapup and Outlook
 
 * 60 (Chairs): What do we need for a Research Group?
 * (All): Subjects for focus; deliverables
@@ -102,4 +104,15 @@ Berlin/Brussels IRTF t2trg (2 hr slot during IETF)
 
 ## 1520-1720 Summary meeting
 
+* T2TRG and W3G IG WOT Introduction (chairs)
+
+* Updates / Contributions of IOT Consortia
+    * AIOTI
+    * Alljoyn Security Model
+
 * Summary presentations; discussion
+    * Cooperation with specific WGs: ACE, CORE, ...
+    * Near term work program
+    * Cooperation with W3C IG WoT
+    * PlugREST?
+    * Steps to an approved Research Group
