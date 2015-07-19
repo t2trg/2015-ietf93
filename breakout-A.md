@@ -1,6 +1,6 @@
 # Thing-to-Thing Breakout A
 
-- Talk: 12 [CoRE Applications](http://tools.ietf.org/html/draft-hartke-core-apps) (Klaus Hartke, Uni Bremen TZI)
+- Talk: [12 CoRE Applications](https://github.com/t2trg/2015-ietf93/blob/master/slides/12-core-apps.pdf) (Klaus Hartke, Uni Bremen TZI) ([draft](http://tools.ietf.org/html/draft-hartke-core-apps))
 
 ## REST
 - Collect accessable "authoritative" material on RESTful design
