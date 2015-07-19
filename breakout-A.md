@@ -1,6 +1,6 @@
 # Thing-to-Thing Breakout A
 
-- Talk: [12 CoRE Applications](https://github.com/t2trg/2015-ietf93/blob/master/slides/12-core-apps.pdf) (Klaus Hartke, Uni Bremen TZI) ([draft](http://tools.ietf.org/html/draft-hartke-core-apps))
+- Talk: 12 [CoRE Applications](http://tools.ietf.org/html/draft-hartke-core-apps) (Klaus Hartke, Uni Bremen TZI)
 
 ## REST
 - Collect accessable "authoritative" material on RESTful design
@@ -8,6 +8,7 @@
   - Book references
   - Review other blog posts and convert to drafts?
 - Assemble a cookbook with design patterns
+  - Provide an "executive summary"
   - Focus on properties and implications (benefits, drawbacks)
   - Explain benefits in context of concrete use cases
   - Having parallel documents for each application domain might help
@@ -25,6 +26,7 @@
   - Look at "cut" connections
   - Learn from classic Web applications (e.g., load balancers)
 - Bindings with handles (resources) to synchronize resources might help
+- Terming "choreography" might be more fitting?
 
 ### A2) Use cases, requirements and modeling of subscriptions
 - Look at Observe attributes in core-interfaces and OMA LWM2M
@@ -33,7 +35,7 @@
   - Rough consensus on resource handles
   - Handles could be managed with CoMI to benefit from tooling
   - Possibility to batch multiple observe relations
-- Also think about other mechanisms (e.g., for HTTP)
+- Also think about including other mechanisms (e.g., for HTTP) in the handles
 
 ### A3) Modeling of Web Thing as typed resources
 - CoRE Apps provides some guidance for HATEOAS approach
@@ -72,6 +74,11 @@
 ## Outlook
 - Start definitions bottom-up from REST elements and constraints (client-server etc.)
 - Add next step, small abstraction on top
+
+## AI
+- Draft for subscriptions
+- implementations for HATEOAS
+- draft REST cookbook
 
 
  
